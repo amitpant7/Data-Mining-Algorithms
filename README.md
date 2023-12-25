@@ -5,7 +5,7 @@ Lab 2: [Decision Trees](https://github.com/amitpant7/Decision-Trees)   -- Bankno
   
 Lab 3: [Naive Bayes](https://github.com/amitpant7/Naive-Bayes)  --- Heart disease Dataset
   
-Lab 4: [Image_Segmentation_using_K_means_Clustering Public](https://github.com/amitpant7/Image_Segmentation_using_K_means_Clustering) 
+Lab 4: [Image_Segmentation_using_K_means_Clustering](https://github.com/amitpant7/Image_Segmentation_using_K_means_Clustering) 
   
 Lab 5: [Implementation of ANN from Scratch](https://github.com/amitpant7/Data-Mining-Labs/blob/main/ANN%20(2).pdf)  ----- MNIST Dataset
   
