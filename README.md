@@ -1,4 +1,4 @@
-# Data Mining Projects Portfolio
+# Data Mining Projects Algorithms Implementation
 
 ## 1. Principal Component Analysis 🌾
 **Project:** Insights in Wheat Seed and Irish Flower Data Through PCA  
