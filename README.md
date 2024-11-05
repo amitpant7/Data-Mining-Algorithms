@@ -1,4 +1,4 @@
-# Data Mining Projects Algorithms Implementation
+# Data Mining Projects
 Listing of projects I completed related to data mining as part of the Data Mining course, with links to the implementation repositories. Each project includes a notebook with the complete algorithm implementation, covering exploratory data analysis, model training, evaluation, and result interpretation. Additionally, each project is accompanied by a paper in IEEE format, with description of all aspects.
 
 ## 1. Principal Component Analysis 🌾
